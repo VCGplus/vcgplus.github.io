@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 代码改变世界
+keywords: VCG
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+这是VCG的博客
 
-仰慕「优雅编码的艺术」。
+仰慕互联网
 
-坚信熟能生巧，努力改变人生。
+仰慕自由，开放，共享的互联网
 
 ## 联系
 
@@ -21,10 +21,6 @@ permalink: /about/
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
 {% endif %}
 </ul>
 
