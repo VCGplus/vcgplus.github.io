@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://shit.vcgplus.xyz
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: VCG的折腾记录
+subtitle: "Enjoy life."
+description: "记录折腾的经历和经验"
+keywords: VCG
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: VCGplus/VCGplus.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -37,7 +37,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: VCG
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -48,12 +48,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: VCG
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: VCGplus
+location: Shaoguan, China
+email: 2308943512@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -130,17 +130,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: VCGplus
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: af67629daa535e317c38
+        client_secret: 23ccb3d1afce6449f67b5ed5114303396a06b3b0
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: VCGplus
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: af67629daa535e317c38
+    clientSecret: 23ccb3d1afce6449f67b5ed5114303396a06b3b0
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
