@@ -1,8 +1,8 @@
 .home .banner,
 .home .site-header {
     background: url(http://shit.vcgplus.xyz/assets/images/header.jpg)no-repeat;
-    backgrpund-size: cover;
-    background-position: center;
+    background-size: cover;
+    background-position: top;
     color: #fff;
 }
 
