@@ -14,6 +14,8 @@ permalink: /about/
 
 仰慕自由，开放，共享的互联网
 
+![Aaron_Hillel_Swartz_King_of_the Web](http://shit.vcgplus.xyz/images/Aaron_Hillel_Swartz.png)
+
 ## 联系
 
 <ul>
