@@ -41,6 +41,18 @@ keywords: 网站搭建
 
 ![teach](http://shit.vcgplus.xyz/images/blog/10.jpg)
 
+博客的命名规则是 “年-月-日-英文.md” 例如：2021-09-21-test.md
+而且博客的内容最上面要写
+```markdown
+---
+layout: post
+title: 博客标题
+categories: 类型
+description: 描述
+keywords: 关键词
+---
+```
+
 这样，你的博客就搭建好了，会前端开发的可以自行美化加功能
 
 基于[Jekyll](https://jekyllcn.com)
