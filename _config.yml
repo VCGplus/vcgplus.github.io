@@ -134,13 +134,13 @@ gitment:
     repo: blog-comments
     oauth:
         client_id: af67629daa535e317c38
-        client_secret: 23ccb3d1afce6449f67b5ed5114303396a06b3b0
+        client_secret: f8c5fcf6aa4bd8d7ae2e81d75a4fe1f4fd7bb623
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: VCGplus
     repo: blog-comments
     clientID: af67629daa535e317c38
-    clientSecret: 23ccb3d1afce6449f67b5ed5114303396a06b3b0
+    clientSecret: f8c5fcf6aa4bd8d7ae2e81d75a4fe1f4fd7bb623
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
